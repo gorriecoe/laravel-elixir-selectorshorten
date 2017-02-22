@@ -1,0 +1,8 @@
+*Thumbs.db
+*web.config
+*.log
+*.DS_Store
+*._.DS_Store
+*.sublime-*
+*.sass-cache
+*prepros.cfg
